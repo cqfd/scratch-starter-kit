@@ -10,6 +10,7 @@
   "author": "Alan O'Donnell <alan.m.odonnell@gmail.com> (https://github.com/cqfd)",
   "license": "MIT",
   "dependencies": {
+    "algoliasearch": "3.22.3",
     "react": "15.5.4",
     "react-dom": "15.5.4"
   },
